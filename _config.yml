@@ -27,7 +27,6 @@ navbar-links:
   Materiais:
     - Publicações: "publicacoes"
     - Sentipampa: "https://bitbucket.org/HBrum/sentipampa"
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
   Contato: "contact"
@@ -57,7 +56,7 @@ footer-links-active:
   twitter: true
   github: true
   linkedin: true
-  stackoverflow: false
+  stackoverflow: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
