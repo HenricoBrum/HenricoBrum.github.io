@@ -1,15 +1,14 @@
 ---
 layout: page
-title: Analise de Sentimentos
-subtitle: Você gostou mesmo de assistir aquele filme?
+title: Publicações
+subtitle: Trabalhos publicados em eventos e congressos
 ---
 
-Minha pesquisa principal envolve a Análise de Sentimentos, segmento do Processamento de Linguagem Natural que lida com emoções e opiniões de pessoas. Pesquisas nessa área se tornaram muito mais importantes com a popularização da internet e das redes sociais nos últimos dez anos. Usuários em redes sociais são usualmente consumidores de produtos e serviços, que podem agradar ou não. A facilidade de expressão de opinião em ambientes virtuais faz com que as opiniões extraídas de redes sociais como o Twitter e o Facebook representem avaliações e feebacks mais confiáveis para empresas que dependem dessas opiniões e avaliações para seus produtos.
+ - Brum, Henrico B. e Mergen, L. S. Mergen. "Extração de Nomes de Pessoas Baseado em Etapas de Etiquetamento."
 
-- Polaridades - Positivo, Neutro e Negativo
-- Emoções - Alegria, Surpresa, Nojo, Decepção
+ - Brum, H. B. e Fabio N. K. "Análise de sentimentos para português brasileiro usando redes neurais recursivas." Symposium in information and human language technology, 2015.
 
-Mas como podemos extrair esses sentimentos de sentenças escritas em linguagem natural?
+ - Brum, H., Filipe A., e Fabio K. "Sentiment Analysis for Brazilian Portuguese over a Skewed Class Corpora." International Conference on Computational Processing of the Portuguese Language. Springer International Publishing, 2016.
 
 ### Extração de Sentimentos
 
