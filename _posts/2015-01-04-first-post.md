@@ -1,6 +1,8 @@
 ---
 layout: post
-title: First post!
+title: Mestrado em Ciência da Computação e Matemática Computacional
 ---
 
-This is my first post, how exciting!
+Orientadora: Maria das Graças Volpe Nunes
+
+
