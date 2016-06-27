@@ -23,8 +23,9 @@ description: Página pessoal de Henrico Brum
 
 # List of links in the navigation bar
 navbar-links:
-  Analise de Sentimentos: "aboutme"
+  Analise de Sentimentos: "sentimentos"
   Guias:
+    - Sentipampa: "https://bitbucket.org/HBrum/sentipampa"
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
@@ -72,7 +73,7 @@ url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "America/Sao Paulo"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
