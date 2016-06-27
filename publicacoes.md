@@ -12,5 +12,5 @@ subtitle: Trabalhos publicados em eventos e congressos
 
 ## NER - Reconhecimento de Entidades Nomeadas
 
- - Brum, Henrico B. e Mergen, L. S. Mergen. "Extração de Nomes de Pessoas Baseado em Etapas de Etiquetamento." IX Escola Regional de Banco de dados, 2013. Camboriú, Brasil. [link](http://www.lbd.dcc.ufmg.br/colecoes/erbd/2013/003.pdf)
+ - Brum, Henrico B. e Mergen, L. S. Mergen. "Extração de Nomes de Pessoas Baseado em Etapas de Etiquetamento." IX Escola Regional de Banco de dados, 2013. Camboriú, Brasil. \[[link]](http://www.lbd.dcc.ufmg.br/colecoes/erbd/2013/003.pdf)
 
