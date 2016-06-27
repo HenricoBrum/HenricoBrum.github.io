@@ -1,4 +1,4 @@
-# Carte Noire
+# Henrico Bertini Brum
 
 A simple Jekyll theme for blogging. Not named after the coffee.
 
