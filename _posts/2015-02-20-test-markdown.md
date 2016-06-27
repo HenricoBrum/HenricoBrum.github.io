@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Análise de sentimentos para português usando redes neurais recursivas
-subtitle: Universidade Federal do Pampa - Graduação (2010~2015)
+subtitle: Trabalho de Conclusão de CUrso - UNIPAMPA/Alegrete (2014 ~ 2015)
 ---
 
 You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
