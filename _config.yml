@@ -24,7 +24,8 @@ description: Página pessoal de Henrico Brum
 # List of links in the navigation bar
 navbar-links:
   Analise de Sentimentos: "sentimentos"
-  Guias:
+  Materiais:
+    - Publicações: "publicacoes"
     - Sentipampa: "https://bitbucket.org/HBrum/sentipampa"
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
