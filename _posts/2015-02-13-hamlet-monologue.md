@@ -1,7 +1,7 @@
 ---
 layout: post
-title: To be
-subtitle: ... or not to be?
+title: Extração de Dados Inteligente
+subtitle: Iniciação Científica - UNIPAMPA - Alegrete (2012)
 ---
 
 To be, or not to be--that is the question:
