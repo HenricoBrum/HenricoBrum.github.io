@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contato
-subtitle: Use os ícones abaixo para entrar em contato.
 ---
 
+Lattes: [http://lattes.cnpq.br/2319733789095224](http://lattes.cnpq.br/2319733789095224)
 
