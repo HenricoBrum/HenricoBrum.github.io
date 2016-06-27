@@ -10,7 +10,7 @@ subtitle: Trabalhos publicados em eventos e congressos
 
  - Brum, H., Filipe A., e Fabio K. "Sentiment Analysis for Brazilian Portuguese over a Skewed Class Corpora." International Conference on Computational Processing of the Portuguese Language. Springer International Publishing, 2016. Tomar, Portugal.
 
-## Reconhecimento de Entidades Nomeadas (NER)
+## NER - Reconhecimento de Entidades Nomeadas
 
- - Brum, Henrico B. e Mergen, L. S. Mergen. "Extração de Nomes de Pessoas Baseado em Etapas de Etiquetamento." IX Escola Regional de Banco de dados, 2013. Camboriú, Brasil.
+ - Brum, Henrico B. e Mergen, L. S. Mergen. "Extração de Nomes de Pessoas Baseado em Etapas de Etiquetamento." IX Escola Regional de Banco de dados, 2013. Camboriú, Brasil. [link](http://www.lbd.dcc.ufmg.br/colecoes/erbd/2013/003.pdf)
 
