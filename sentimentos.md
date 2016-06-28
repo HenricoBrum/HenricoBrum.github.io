@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Analise de Sentimentos
+title: Análise de Sentimentos
 subtitle: Você gostou mesmo de assistir aquele filme?
 ---
 
