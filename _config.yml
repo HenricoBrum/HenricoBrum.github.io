@@ -24,7 +24,7 @@ description: Página pessoal de Henrico Brum
 # List of links in the navigation bar
 navbar-links:
   Analise de Sentimentos: "sentimentos"
-  Materiais:
+  Materiais: "publicacoes"
     - Publicações: "publicacoes"
     - Sentipampa: "https://bitbucket.org/HBrum/sentipampa"
     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -48,7 +48,7 @@ author:
   linkedin: in/henricobrum  # eg. "pub/dean-attali/8/946/143"
   stackoverflow: http://lattes.cnpq.br/2319733789095224  # eg. "3943160/daattali"
  
-# Select which links to show in the footer
+# Select which	 links to show in the footer
 footer-links-active:
   rss: true
   facebook: true
