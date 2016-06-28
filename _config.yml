@@ -25,9 +25,9 @@ description: Página pessoal de Henrico Brum
 navbar-links:
   Análise de Sentimentos: "sentimentos"
   Projetos: 
-    - Mestrado ICMC/USP: "2016-01-03-mestrado"
-    - TCC Unipampa/Alegrete: "2015-07-01-tcc"
-    - Iniciação Científica: "2012-06-01-ic"
+    - Métodos Avançados de Mineração de Opinião: "2016-01-03-mestrado"
+    - Análise de Sentimentos usando Redes Neurais Recursivas: "2015-07-01-tcc"
+    - Extração de Dados Inteligente: "2012-06-01-ic"
     - Publicações: "publicacoes"
   Contato: "contact"
 
