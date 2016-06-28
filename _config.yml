@@ -24,7 +24,7 @@ description: Página pessoal de Henrico Brum
 # List of links in the navigation bar
 navbar-links:
   Analise de Sentimentos: "sentimentos"
-  Materiais: "publicacoes"
+  Materiais: 
     - Publicações: "publicacoes"
     - Sentipampa: "https://bitbucket.org/HBrum/sentipampa"
     - Learn markdown: "http://www.markdowntutorial.com/"
