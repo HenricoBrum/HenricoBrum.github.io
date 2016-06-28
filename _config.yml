@@ -23,10 +23,11 @@ description: Página pessoal de Henrico Brum
 
 # List of links in the navigation bar
 navbar-links:
-  Analise de Sentimentos: "sentimentos"
+  Análise de Sentimentos: "sentimentos"
   Projetos: 
     - Mestrado: "2016-01-03-mestrado"
     - TCC: "2015-07-01-tcc"
+        - Unipampa: "teste"
     - Iniciação Científica: "2012-06-01-ic"
     - Publicações: "publicacoes"
   Contato: "contact"
