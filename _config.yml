@@ -23,12 +23,12 @@ description: Página pessoal de Henrico Brum
 
 # List of links in the navigation bar
 navbar-links:
-  Analise de Sentimentos: "sentimentos"
-  Materiais: 
+  Análise de Sentimentos: "sentimentos"
+  Projetos: 
+    - Mestrado ICMC/USP: "2016-01-03-mestrado"
+    - Graduação Unipampa/Alegrete: "2015-07-01-tcc"
+    - Iniciação Científica: "2012-06-01-ic"
     - Publicações: "publicacoes"
-    - Sentipampa: "https://bitbucket.org/HBrum/sentipampa"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
   Contato: "contact"
 
 # Image to show in the navigation bar - image must be a square (width = height)
