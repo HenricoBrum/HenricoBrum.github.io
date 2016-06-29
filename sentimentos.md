@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Análise de Sentimentos
-subtitle: Você gostou mesmo de assistir aquele filme?
+subtitle: O que as pessoas pensam na internet?
 ---
 
 Minha pesquisa principal envolve a Análise de Sentimentos, segmento do Processamento de Linguagem Natural que lida com emoções e opiniões de pessoas. Pesquisas nessa área se tornaram muito mais importantes com a popularização da internet e das redes sociais nos últimos dez anos.
