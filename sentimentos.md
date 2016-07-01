@@ -4,7 +4,7 @@ title: Análise de Sentimentos
 subtitle: O que as pessoas pensam na internet?
 ---
 
-Minha pesquisa principal envolve a Análise de Sentimentos, segmento do Processamento de Linguagem Natural que lida com emoções e opiniões de pessoas. Pesquisas nessa área se tornaram muito mais importantes com a popularização da internet e das redes sociais nos últimos dez anos.
+**Meu projeto principal de [mestrado](https://henricobrum.github.io/2016-01-03-mestrado/)** envolve a **Análise de Sentimentos**, segmento do Processamento de Linguagem Natural que lida com emoções e opiniões de pessoas. Pesquisas nessa área se tornaram muito mais importantes com a popularização da internet e das redes sociais nos últimos dez anos.
 
 Usuários em redes sociais são usualmente consumidores de produtos e serviços, que podem agradar ou não. A facilidade de expressão de opinião em ambientes virtuais faz com que as opiniões extraídas de redes sociais como o Twitter e o Facebook representem avaliações e feebacks mais confiáveis para empresas que dependem dessas opiniões e avaliações para seus produtos.
 
